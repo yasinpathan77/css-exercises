@@ -1,0 +1,14 @@
+.btn_black,
+.btn_yellow {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif, 'Times New Roman', Times, serif;
+}
+
+.btn_black {
+    background-color: black;
+    color: white;
+}
+
+.btn_yellow {
+    background-color: yellow;
+}
