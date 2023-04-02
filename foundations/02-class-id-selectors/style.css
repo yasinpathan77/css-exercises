@@ -1,0 +1,19 @@
+.odd_Element {
+    background-color: lightpink;
+    font-family: 'Times New Roman', Verdana, DejaVu Sans, sans-serif;
+}
+
+#second_Element {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd_ELement_IncreaseSize {
+    font-size: 24px;
+}
+
+#fourth_Element {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
